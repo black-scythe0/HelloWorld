@@ -1,43 +1,43 @@
 # Hello World!
 
-- [-] asm                 
+- [ ] asm                 
 - [X] ada                 
-- [-] awk                 
-- [-] basic               
+- [ ] awk                 
+- [ ] basic               
 - [X] bash                
 - [X] C                   
 - [X] C3                  
 - [X] C++                 
-- [-] C#                  
-- [-] Cobol               
-- [-] clojure             
+- [ ] C#                  
+- [ ] Cobol               
+- [ ] clojure             
 - [X] D                   
-- [-] emacs lisp-2        
-- [-] erl                  
-- [-] elixir              
+- [ ] emacs lisp-2        
+- [ ] erl                  
+- [ ] elixir              
 - [X] Fortran             
-- [-] F#                  
-- [-] groovy              
+- [ ] F#                  
+- [ ] groovy              
 - [X] go                  
-- [-] gleam               
-- [-] haskell             
-- [-] hare                
+- [ ] gleam               
+- [ ] haskell             
+- [ ] hare                
 - [X] java                
-- [-] julia               
+- [ ] julia               
 - [X] js                    
-- [-] kotlin              
-- [-] lua                 
+- [ ] kotlin              
+- [ ] lua                 
 - [X] nim                 
-- [-] ocaml                 
+- [ ] ocaml                 
 - [X] perl                
-- [-] pascal              
-- [-] pluto               
+- [ ] pascal              
+- [ ] pluto               
 - [X] python              
-- [-] racket              
+- [ ] racket              
 - [X] ruby                
 - [X] rust                
-- [-] scala               
-- [-] solidity            
-- [-] s-lang              
-- [-] ts                  
-- [-] zig                 
+- [ ] scala               
+- [ ] solidity            
+- [ ] s-lang              
+- [ ] ts                  
+- [ ] zig                 
