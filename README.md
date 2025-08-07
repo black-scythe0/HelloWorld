@@ -1,7 +1,7 @@
 # Hello World!
 
 - [ ] asm                 
-- [X] ada                 
+- [ ] ada                 
 - [ ] awk                 
 - [ ] basic               
 - [X] bash                
@@ -39,5 +39,5 @@
 - [ ] scala               
 - [ ] solidity            
 - [ ] s-lang              
-- [ ] ts                  
+- [X] ts                  
 - [ ] zig                 
