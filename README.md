@@ -19,7 +19,8 @@
 - [ ] F#                  
 - [ ] groovy              
 - [X] go                  
-- [ ] gleam               
+- [ ] gleam 
+- [ ] Html             
 - [ ] haskell             
 - [ ] hare                
 - [X] java                
