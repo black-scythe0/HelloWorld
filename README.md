@@ -26,7 +26,7 @@
 - [X] java                
 - [ ] julia               
 - [X] js                    
-- [ ] kotlin              
+- [X] kotlin              
 - [ ] lua                 
 - [X] nim                 
 - [ ] ocaml                 
